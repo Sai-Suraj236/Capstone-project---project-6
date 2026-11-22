@@ -1,3 +1,5 @@
+# Project 6 - Version controlled Terraform configuration
+
 provider "aws" {
   region = "eu-north-1"
 }
